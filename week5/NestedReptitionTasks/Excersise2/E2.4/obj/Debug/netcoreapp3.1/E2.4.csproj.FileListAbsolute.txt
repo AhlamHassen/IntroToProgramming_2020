@@ -1,0 +1,22 @@
+C:\Users\Ahlam\Desktop\NestedReptitionTasks\Excersise2\E2.4\bin\Debug\netcoreapp3.1\E2.4.exe
+C:\Users\Ahlam\Desktop\NestedReptitionTasks\Excersise2\E2.4\bin\Debug\netcoreapp3.1\E2.4.deps.json
+C:\Users\Ahlam\Desktop\NestedReptitionTasks\Excersise2\E2.4\bin\Debug\netcoreapp3.1\E2.4.runtimeconfig.json
+C:\Users\Ahlam\Desktop\NestedReptitionTasks\Excersise2\E2.4\bin\Debug\netcoreapp3.1\E2.4.runtimeconfig.dev.json
+C:\Users\Ahlam\Desktop\NestedReptitionTasks\Excersise2\E2.4\bin\Debug\netcoreapp3.1\E2.4.dll
+C:\Users\Ahlam\Desktop\NestedReptitionTasks\Excersise2\E2.4\bin\Debug\netcoreapp3.1\E2.4.pdb
+C:\Users\Ahlam\Desktop\NestedReptitionTasks\Excersise2\E2.4\obj\Debug\netcoreapp3.1\E2.4.csprojAssemblyReference.cache
+C:\Users\Ahlam\Desktop\NestedReptitionTasks\Excersise2\E2.4\obj\Debug\netcoreapp3.1\E2.4.AssemblyInfoInputs.cache
+C:\Users\Ahlam\Desktop\NestedReptitionTasks\Excersise2\E2.4\obj\Debug\netcoreapp3.1\E2.4.AssemblyInfo.cs
+C:\Users\Ahlam\Desktop\NestedReptitionTasks\Excersise2\E2.4\obj\Debug\netcoreapp3.1\E2.4.dll
+C:\Users\Ahlam\Desktop\NestedReptitionTasks\Excersise2\E2.4\obj\Debug\netcoreapp3.1\E2.4.pdb
+C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\week5\NestedReptitionTasks\Excersise2\E2.4\bin\Debug\netcoreapp3.1\E2.4.exe
+C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\week5\NestedReptitionTasks\Excersise2\E2.4\bin\Debug\netcoreapp3.1\E2.4.deps.json
+C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\week5\NestedReptitionTasks\Excersise2\E2.4\bin\Debug\netcoreapp3.1\E2.4.runtimeconfig.json
+C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\week5\NestedReptitionTasks\Excersise2\E2.4\bin\Debug\netcoreapp3.1\E2.4.runtimeconfig.dev.json
+C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\week5\NestedReptitionTasks\Excersise2\E2.4\bin\Debug\netcoreapp3.1\E2.4.dll
+C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\week5\NestedReptitionTasks\Excersise2\E2.4\bin\Debug\netcoreapp3.1\E2.4.pdb
+C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\week5\NestedReptitionTasks\Excersise2\E2.4\obj\Debug\netcoreapp3.1\E2.4.csprojAssemblyReference.cache
+C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\week5\NestedReptitionTasks\Excersise2\E2.4\obj\Debug\netcoreapp3.1\E2.4.AssemblyInfoInputs.cache
+C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\week5\NestedReptitionTasks\Excersise2\E2.4\obj\Debug\netcoreapp3.1\E2.4.AssemblyInfo.cs
+C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\week5\NestedReptitionTasks\Excersise2\E2.4\obj\Debug\netcoreapp3.1\E2.4.dll
+C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\week5\NestedReptitionTasks\Excersise2\E2.4\obj\Debug\netcoreapp3.1\E2.4.pdb

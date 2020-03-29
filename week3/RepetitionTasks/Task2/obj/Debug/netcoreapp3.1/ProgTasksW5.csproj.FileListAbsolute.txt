@@ -1,0 +1,11 @@
+C:\Users\Ahlam\Desktop\ProgTasksW5\Task2\bin\Debug\netcoreapp3.1\ProgTasksW5.exe
+C:\Users\Ahlam\Desktop\ProgTasksW5\Task2\bin\Debug\netcoreapp3.1\ProgTasksW5.deps.json
+C:\Users\Ahlam\Desktop\ProgTasksW5\Task2\bin\Debug\netcoreapp3.1\ProgTasksW5.runtimeconfig.json
+C:\Users\Ahlam\Desktop\ProgTasksW5\Task2\bin\Debug\netcoreapp3.1\ProgTasksW5.runtimeconfig.dev.json
+C:\Users\Ahlam\Desktop\ProgTasksW5\Task2\bin\Debug\netcoreapp3.1\ProgTasksW5.dll
+C:\Users\Ahlam\Desktop\ProgTasksW5\Task2\bin\Debug\netcoreapp3.1\ProgTasksW5.pdb
+C:\Users\Ahlam\Desktop\ProgTasksW5\Task2\obj\Debug\netcoreapp3.1\ProgTasksW5.csprojAssemblyReference.cache
+C:\Users\Ahlam\Desktop\ProgTasksW5\Task2\obj\Debug\netcoreapp3.1\ProgTasksW5.AssemblyInfoInputs.cache
+C:\Users\Ahlam\Desktop\ProgTasksW5\Task2\obj\Debug\netcoreapp3.1\ProgTasksW5.AssemblyInfo.cs
+C:\Users\Ahlam\Desktop\ProgTasksW5\Task2\obj\Debug\netcoreapp3.1\ProgTasksW5.dll
+C:\Users\Ahlam\Desktop\ProgTasksW5\Task2\obj\Debug\netcoreapp3.1\ProgTasksW5.pdb
