@@ -6,15 +6,16 @@ namespace Excersise1
     {
         static void Main(string[] args)
         {
-          Console.WriteLine("please enter you name");
-          string name=Console.ReadLine();
-          Console.WriteLine(" ");
-          int counter=0;
-          
-          while(counter<10)
-          { counter++;
-            Console.Write(name+ " ");
-          }
+            Console.WriteLine("please enter you name");
+            string name = Console.ReadLine();
+            Console.WriteLine(" ");
+            int counter = 0;
+
+            while (counter < 10)
+            {
+                counter++;
+                Console.Write(name + " ");
+            }
         }
     }
 }
