@@ -1,0 +1,11 @@
+C:\Users\Ahlam\Desktop\Array&ListsTasks\ListTasks\T1\obj\Debug\netcoreapp3.1\T1.csprojAssemblyReference.cache
+C:\Users\Ahlam\Desktop\Array&ListsTasks\ListTasks\T1\obj\Debug\netcoreapp3.1\T1.AssemblyInfoInputs.cache
+C:\Users\Ahlam\Desktop\Array&ListsTasks\ListTasks\T1\obj\Debug\netcoreapp3.1\T1.AssemblyInfo.cs
+C:\Users\Ahlam\Desktop\Array&ListsTasks\ListTasks\T1\bin\Debug\netcoreapp3.1\T1.exe
+C:\Users\Ahlam\Desktop\Array&ListsTasks\ListTasks\T1\bin\Debug\netcoreapp3.1\T1.deps.json
+C:\Users\Ahlam\Desktop\Array&ListsTasks\ListTasks\T1\bin\Debug\netcoreapp3.1\T1.runtimeconfig.json
+C:\Users\Ahlam\Desktop\Array&ListsTasks\ListTasks\T1\bin\Debug\netcoreapp3.1\T1.runtimeconfig.dev.json
+C:\Users\Ahlam\Desktop\Array&ListsTasks\ListTasks\T1\bin\Debug\netcoreapp3.1\T1.dll
+C:\Users\Ahlam\Desktop\Array&ListsTasks\ListTasks\T1\bin\Debug\netcoreapp3.1\T1.pdb
+C:\Users\Ahlam\Desktop\Array&ListsTasks\ListTasks\T1\obj\Debug\netcoreapp3.1\T1.dll
+C:\Users\Ahlam\Desktop\Array&ListsTasks\ListTasks\T1\obj\Debug\netcoreapp3.1\T1.pdb
