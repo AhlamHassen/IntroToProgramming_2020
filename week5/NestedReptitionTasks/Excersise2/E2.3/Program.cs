@@ -6,18 +6,18 @@ namespace E2._3
     {
         static void Main(string[] args)
         {
-            int counter = 5;
+            int counter = 0;
 
-            while (counter > 0)
+            while (counter < 5)
             {
-                counter--;
                 int counter2 = counter;
-                while (counter2 < 5)
+                while (counter2 >= 0)
                 {
-                    counter2++;
                     Console.Write("X");
+                    counter2--;
                 }
                 Console.WriteLine();
+                counter++;
 
             }
         }

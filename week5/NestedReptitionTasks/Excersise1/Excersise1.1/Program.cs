@@ -8,7 +8,7 @@ namespace Excersise1
         {
             Console.WriteLine("please enter you name");
             string name = Console.ReadLine();
-            Console.WriteLine(" ");
+            Console.WriteLine("");
             int counter = 0;
 
             while (counter < 10)

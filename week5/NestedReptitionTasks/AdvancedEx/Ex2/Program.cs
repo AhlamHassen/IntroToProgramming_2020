@@ -23,7 +23,6 @@ namespace Ex2
                 moreX--;
                 space--;
                 Console.WriteLine();
-
             }
 
 

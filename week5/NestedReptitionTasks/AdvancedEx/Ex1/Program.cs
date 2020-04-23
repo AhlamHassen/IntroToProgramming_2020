@@ -29,6 +29,7 @@ namespace Excersise3
             }
 
             // Using for Loop
+
             /* int LessX = 0;
                int space = 0;
 
@@ -42,10 +43,9 @@ namespace Excersise3
                   {
                       Console.Write("X");
                   }
-                  LessX++;
-                  space++;
                   Console.WriteLine();
-
+                  LessX++;
+                  space++; 
               }*/
 
         }

@@ -6,13 +6,9 @@ namespace Ex3
     {
         static void Main(string[] args)
         {
-
             int moreX = 5;
-
-
             Console.WriteLine("Please Enter the amount of lines you want");
             int numsLine = int.Parse(Console.ReadLine());
-
             int space = numsLine;
 
             for (int i = 0; i < numsLine; i++)

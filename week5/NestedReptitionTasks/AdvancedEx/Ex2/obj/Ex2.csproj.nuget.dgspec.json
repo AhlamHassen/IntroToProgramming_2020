@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\week5\\NestedReptitionTasks\\AdvancedEx\\Ex2\\Ex2.csproj": {}
+    "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week5\\NestedReptitionTasks\\AdvancedEx\\Ex2\\Ex2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\week5\\NestedReptitionTasks\\AdvancedEx\\Ex2\\Ex2.csproj": {
+    "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week5\\NestedReptitionTasks\\AdvancedEx\\Ex2\\Ex2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\week5\\NestedReptitionTasks\\AdvancedEx\\Ex2\\Ex2.csproj",
+        "projectUniqueName": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week5\\NestedReptitionTasks\\AdvancedEx\\Ex2\\Ex2.csproj",
         "projectName": "Ex2",
-        "projectPath": "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\week5\\NestedReptitionTasks\\AdvancedEx\\Ex2\\Ex2.csproj",
+        "projectPath": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week5\\NestedReptitionTasks\\AdvancedEx\\Ex2\\Ex2.csproj",
         "packagesPath": "C:\\Users\\Ahlam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\week5\\NestedReptitionTasks\\AdvancedEx\\Ex2\\obj\\",
+        "outputPath": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week5\\NestedReptitionTasks\\AdvancedEx\\Ex2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ahlam\\AppData\\Roaming\\NuGet\\NuGet.Config"

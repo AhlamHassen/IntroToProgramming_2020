@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahlam\\Desktop\\NestedReptitionTasks\\Excersise1\\Excersise1.1\\Excersise1.csproj": {}
+    "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week5\\NestedReptitionTasks\\Excersise1\\Excersise1.1\\Excersise1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahlam\\Desktop\\NestedReptitionTasks\\Excersise1\\Excersise1.1\\Excersise1.csproj": {
+    "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week5\\NestedReptitionTasks\\Excersise1\\Excersise1.1\\Excersise1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahlam\\Desktop\\NestedReptitionTasks\\Excersise1\\Excersise1.1\\Excersise1.csproj",
+        "projectUniqueName": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week5\\NestedReptitionTasks\\Excersise1\\Excersise1.1\\Excersise1.csproj",
         "projectName": "Excersise1",
-        "projectPath": "C:\\Users\\Ahlam\\Desktop\\NestedReptitionTasks\\Excersise1\\Excersise1.1\\Excersise1.csproj",
+        "projectPath": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week5\\NestedReptitionTasks\\Excersise1\\Excersise1.1\\Excersise1.csproj",
         "packagesPath": "C:\\Users\\Ahlam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahlam\\Desktop\\NestedReptitionTasks\\Excersise1\\Excersise1.1\\obj\\",
+        "outputPath": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week5\\NestedReptitionTasks\\Excersise1\\Excersise1.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ahlam\\AppData\\Roaming\\NuGet\\NuGet.Config"

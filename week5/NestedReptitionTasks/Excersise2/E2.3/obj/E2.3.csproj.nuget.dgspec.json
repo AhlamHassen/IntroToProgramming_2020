@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\week5\\NestedReptitionTasks\\Excersise2\\E2.3\\E2.3.csproj": {}
+    "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week5\\NestedReptitionTasks\\Excersise2\\E2.3\\E2.3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\week5\\NestedReptitionTasks\\Excersise2\\E2.3\\E2.3.csproj": {
+    "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week5\\NestedReptitionTasks\\Excersise2\\E2.3\\E2.3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\week5\\NestedReptitionTasks\\Excersise2\\E2.3\\E2.3.csproj",
+        "projectUniqueName": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week5\\NestedReptitionTasks\\Excersise2\\E2.3\\E2.3.csproj",
         "projectName": "E2.3",
-        "projectPath": "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\week5\\NestedReptitionTasks\\Excersise2\\E2.3\\E2.3.csproj",
+        "projectPath": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week5\\NestedReptitionTasks\\Excersise2\\E2.3\\E2.3.csproj",
         "packagesPath": "C:\\Users\\Ahlam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\week5\\NestedReptitionTasks\\Excersise2\\E2.3\\obj\\",
+        "outputPath": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week5\\NestedReptitionTasks\\Excersise2\\E2.3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ahlam\\AppData\\Roaming\\NuGet\\NuGet.Config"

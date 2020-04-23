@@ -6,23 +6,22 @@ namespace E2._4
     {
         static void Main(string[] args)
         {
-
+            int counter = 0;
             Console.WriteLine("please enter the number of lines you want");
-            int counter = Convert.ToInt32(Console.ReadLine());
-            int input = counter;
+            int inputNumber = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine();
 
-            while (counter > 0)
+            while (counter < inputNumber)
             {
-                counter--;
                 int counter2 = counter;
-                while (counter2 < input)
+                while (counter2 >= 0 )
                 {
-                    counter2++;
                     Console.Write("X");
+                    counter2--;
                 }
-                Console.WriteLine();
 
+                Console.WriteLine();
+                counter++;
             }
         }
     }
