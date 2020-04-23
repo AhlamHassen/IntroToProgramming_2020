@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ahlam\\Desktop\\ProgTasksW5\\Task3\\ProgTasksW5.csproj",
+      "projectUniqueName": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week3\\RepetitionTasks\\Task3\\ProgTasksW5.csproj",
       "projectName": "ProgTasksW5",
-      "projectPath": "C:\\Users\\Ahlam\\Desktop\\ProgTasksW5\\Task3\\ProgTasksW5.csproj",
+      "projectPath": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week3\\RepetitionTasks\\Task3\\ProgTasksW5.csproj",
       "packagesPath": "C:\\Users\\Ahlam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ahlam\\Desktop\\ProgTasksW5\\Task3\\obj\\",
+      "outputPath": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week3\\RepetitionTasks\\Task3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ahlam\\AppData\\Roaming\\NuGet\\NuGet.Config"

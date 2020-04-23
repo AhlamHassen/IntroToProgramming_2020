@@ -9,21 +9,22 @@ namespace ProgTasksW5
             Console.WriteLine("What happens when you throw a yellow rock in the red sea?");
             string input = Console.ReadLine();
             string answer = "it gets wet";
-            int guess = 0;
+            bool found = false;
 
-            while (guess <= 100)
-            {  guess++;
+            while (found != true)
+            {
 
                 if (input == answer)
                 {
                     Console.WriteLine("your answer is correct!");
+                    found = true;
                     break;
                 }
                 else
                 {
-                    Console.WriteLine("Incorrect!Try again"); 
+                    Console.WriteLine("Incorrect!Try again");
                 }
-                  input = Console.ReadLine();
+                input = Console.ReadLine();
             }
         }
     }
