@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\week2\\prog\\ageAdult\\ageAdult.csproj": {}
+    "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week2\\ageAdult\\ageAdult.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\week2\\prog\\ageAdult\\ageAdult.csproj": {
+    "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week2\\ageAdult\\ageAdult.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\week2\\prog\\ageAdult\\ageAdult.csproj",
+        "projectUniqueName": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week2\\ageAdult\\ageAdult.csproj",
         "projectName": "ageAdult",
-        "projectPath": "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\week2\\prog\\ageAdult\\ageAdult.csproj",
+        "projectPath": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week2\\ageAdult\\ageAdult.csproj",
         "packagesPath": "C:\\Users\\Ahlam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\week2\\prog\\ageAdult\\obj\\",
+        "outputPath": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week2\\ageAdult\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ahlam\\AppData\\Roaming\\NuGet\\NuGet.Config"

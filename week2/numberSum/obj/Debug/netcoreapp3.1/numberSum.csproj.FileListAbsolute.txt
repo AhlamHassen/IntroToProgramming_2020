@@ -9,3 +9,14 @@ C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\week2\prog\numberSum\o
 C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\week2\prog\numberSum\obj\Debug\netcoreapp3.1\numberSum.AssemblyInfo.cs
 C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\week2\prog\numberSum\obj\Debug\netcoreapp3.1\numberSum.dll
 C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\week2\prog\numberSum\obj\Debug\netcoreapp3.1\numberSum.pdb
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week2\numberSum\bin\Debug\netcoreapp3.1\numberSum.exe
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week2\numberSum\bin\Debug\netcoreapp3.1\numberSum.deps.json
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week2\numberSum\bin\Debug\netcoreapp3.1\numberSum.runtimeconfig.json
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week2\numberSum\bin\Debug\netcoreapp3.1\numberSum.runtimeconfig.dev.json
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week2\numberSum\bin\Debug\netcoreapp3.1\numberSum.dll
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week2\numberSum\bin\Debug\netcoreapp3.1\numberSum.pdb
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week2\numberSum\obj\Debug\netcoreapp3.1\numberSum.csprojAssemblyReference.cache
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week2\numberSum\obj\Debug\netcoreapp3.1\numberSum.AssemblyInfoInputs.cache
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week2\numberSum\obj\Debug\netcoreapp3.1\numberSum.AssemblyInfo.cs
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week2\numberSum\obj\Debug\netcoreapp3.1\numberSum.dll
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week2\numberSum\obj\Debug\netcoreapp3.1\numberSum.pdb

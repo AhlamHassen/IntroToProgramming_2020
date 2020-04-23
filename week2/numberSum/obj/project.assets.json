@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\week2\\prog\\numberSum\\numberSum.csproj",
+      "projectUniqueName": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week2\\numberSum\\numberSum.csproj",
       "projectName": "numberSum",
-      "projectPath": "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\week2\\prog\\numberSum\\numberSum.csproj",
+      "projectPath": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week2\\numberSum\\numberSum.csproj",
       "packagesPath": "C:\\Users\\Ahlam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\week2\\prog\\numberSum\\obj\\",
+      "outputPath": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week2\\numberSum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ahlam\\AppData\\Roaming\\NuGet\\NuGet.Config"

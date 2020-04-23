@@ -9,3 +9,14 @@ C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\week2\prog\obj\Debug\n
 C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\week2\prog\obj\Debug\netcoreapp3.1\prog.AssemblyInfo.cs
 C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\week2\prog\obj\Debug\netcoreapp3.1\prog.dll
 C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\week2\prog\obj\Debug\netcoreapp3.1\prog.pdb
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week2\usernamePas\bin\Debug\netcoreapp3.1\prog.exe
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week2\usernamePas\bin\Debug\netcoreapp3.1\prog.deps.json
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week2\usernamePas\bin\Debug\netcoreapp3.1\prog.runtimeconfig.json
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week2\usernamePas\bin\Debug\netcoreapp3.1\prog.runtimeconfig.dev.json
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week2\usernamePas\bin\Debug\netcoreapp3.1\prog.dll
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week2\usernamePas\bin\Debug\netcoreapp3.1\prog.pdb
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week2\usernamePas\obj\Debug\netcoreapp3.1\prog.csprojAssemblyReference.cache
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week2\usernamePas\obj\Debug\netcoreapp3.1\prog.AssemblyInfoInputs.cache
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week2\usernamePas\obj\Debug\netcoreapp3.1\prog.AssemblyInfo.cs
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week2\usernamePas\obj\Debug\netcoreapp3.1\prog.dll
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week2\usernamePas\obj\Debug\netcoreapp3.1\prog.pdb
