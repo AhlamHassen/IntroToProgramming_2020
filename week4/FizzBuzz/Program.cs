@@ -32,7 +32,6 @@ namespace FizzBuzz
                     Console.WriteLine(x);
                     x++;
                 }
-               
             }
         }
     }
