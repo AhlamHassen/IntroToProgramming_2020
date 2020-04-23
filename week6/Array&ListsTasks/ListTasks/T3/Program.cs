@@ -18,7 +18,7 @@ namespace T3
                 input = Console.ReadLine();
 
                 if (input == "stop")
-                {   
+                {
                     Console.WriteLine("========================================================");
                     Console.WriteLine("The program has stoped | The stored words in reverse are");
                     Console.WriteLine("========================================================");
@@ -28,7 +28,7 @@ namespace T3
                     {
                         Console.WriteLine(words[i]);
                     }
-                    break;
+
                 }
             }
 

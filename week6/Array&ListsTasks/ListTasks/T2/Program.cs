@@ -7,7 +7,7 @@ namespace T2
     {
         static void Main(string[] args)
         {
-           List<int> num = new List<int>();
+            List<int> num = new List<int>();
             Console.WriteLine("Please insert 5 numbers");
             int Counter = 0;
 
@@ -22,8 +22,8 @@ namespace T2
 
             int x = int.Parse(Console.ReadLine());
             bool found = false;
-            int counter=0;
-            
+            int counter = 0;
+
             for (int i = 0; i < num.Count; i++)
             {
                 if (x == num[i])
@@ -35,12 +35,13 @@ namespace T2
 
             if (found == true)
             {
-                Console.WriteLine("This Number has already been entered" + " " + counter + " "+ "times");
+                Console.WriteLine("This Number has already been entered" + " " + counter + " " + "times");
             }
             else
             {
                 Console.WriteLine("This Number has not been entered");
             }
+
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahlam\\Desktop\\Array&ListsTasks\\ArrayTasks\\Task1\\Task1.csproj": {}
+    "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week6\\Array&ListsTasks\\ArrayTasks\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahlam\\Desktop\\Array&ListsTasks\\ArrayTasks\\Task1\\Task1.csproj": {
+    "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week6\\Array&ListsTasks\\ArrayTasks\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahlam\\Desktop\\Array&ListsTasks\\ArrayTasks\\Task1\\Task1.csproj",
+        "projectUniqueName": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week6\\Array&ListsTasks\\ArrayTasks\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "C:\\Users\\Ahlam\\Desktop\\Array&ListsTasks\\ArrayTasks\\Task1\\Task1.csproj",
+        "projectPath": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week6\\Array&ListsTasks\\ArrayTasks\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\Ahlam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahlam\\Desktop\\Array&ListsTasks\\ArrayTasks\\Task1\\obj\\",
+        "outputPath": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week6\\Array&ListsTasks\\ArrayTasks\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ahlam\\AppData\\Roaming\\NuGet\\NuGet.Config"

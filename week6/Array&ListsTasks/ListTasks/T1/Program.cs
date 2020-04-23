@@ -30,7 +30,6 @@ namespace T1
                     found = true;
                     break;
                 }
-
             }
 
             if (found == true)

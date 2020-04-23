@@ -13,7 +13,7 @@ namespace Task2
             {
                 total += num[i];
             }
-            Console.WriteLine(total);
+            Console.WriteLine("the sum of the numbers is " + total);
 
 
         }

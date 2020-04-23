@@ -19,8 +19,9 @@ namespace Task1
 
             for (int i = 0; i < names.Length; i++)
             {
-                Console.WriteLine("Hello "+ names[i] + ".");
+                Console.WriteLine("Hello " + names[i] + ".");
             }
+
 
         }
     }

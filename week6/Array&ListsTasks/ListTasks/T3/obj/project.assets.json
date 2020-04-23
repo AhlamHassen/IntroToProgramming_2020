@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ahlam\\Desktop\\Array&ListsTasks\\ListTasks\\T3\\T3.csproj",
+      "projectUniqueName": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week6\\Array&ListsTasks\\ListTasks\\T3\\T3.csproj",
       "projectName": "T3",
-      "projectPath": "C:\\Users\\Ahlam\\Desktop\\Array&ListsTasks\\ListTasks\\T3\\T3.csproj",
+      "projectPath": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week6\\Array&ListsTasks\\ListTasks\\T3\\T3.csproj",
       "packagesPath": "C:\\Users\\Ahlam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ahlam\\Desktop\\Array&ListsTasks\\ListTasks\\T3\\obj\\",
+      "outputPath": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\week6\\Array&ListsTasks\\ListTasks\\T3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ahlam\\AppData\\Roaming\\NuGet\\NuGet.Config"
