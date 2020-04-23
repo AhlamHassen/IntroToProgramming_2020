@@ -24,7 +24,6 @@ namespace ProgTasksW5
                 }
                 y = Convert.ToInt32(Console.ReadLine());
 
-
             }
 
         }

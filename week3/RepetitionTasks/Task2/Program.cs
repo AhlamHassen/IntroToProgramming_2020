@@ -12,7 +12,6 @@ namespace ProgTasksW5
                 Console.WriteLine(x);
                 x=x+2;
             }
-           
         }
     }
 }

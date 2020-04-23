@@ -13,7 +13,6 @@ namespace ProgTasksW5
 
             while (found != true)
             {
-
                 if (input == answer)
                 {
                     Console.WriteLine("your answer is correct!");

@@ -9,6 +9,7 @@ namespace ProgTasksW5
             int num = 653;
             /* Random generateRandom = new Random();
              int num = generateRandom.Next(1,1000); */
+             
             int counter = 0;
             Console.WriteLine("Guess a number between 1 and 1000");
 
