@@ -22,7 +22,6 @@ namespace Task1
                 Console.WriteLine("Hello " + names[i] + ".");
             }
 
-
         }
     }
 }

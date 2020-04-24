@@ -40,7 +40,6 @@ namespace T1
             {
                 Console.WriteLine("This Number has not been entered");
             }
-
         }
     }
 }

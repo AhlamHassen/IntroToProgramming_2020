@@ -19,7 +19,6 @@ namespace T2
             }
 
             Console.WriteLine("Please insert a number");
-
             int x = int.Parse(Console.ReadLine());
             bool found = false;
             int counter = 0;
