@@ -170,7 +170,6 @@ namespace week7
             }
 
             Console.WriteLine("The factorial of " + num + "! is " +factoriall);
-
         }
 
         //Task11 Recursive function
