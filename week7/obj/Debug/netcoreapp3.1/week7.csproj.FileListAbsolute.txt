@@ -1,0 +1,11 @@
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week7\bin\Debug\netcoreapp3.1\week7.exe
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week7\bin\Debug\netcoreapp3.1\week7.deps.json
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week7\bin\Debug\netcoreapp3.1\week7.runtimeconfig.json
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week7\bin\Debug\netcoreapp3.1\week7.runtimeconfig.dev.json
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week7\bin\Debug\netcoreapp3.1\week7.dll
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week7\bin\Debug\netcoreapp3.1\week7.pdb
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week7\obj\Debug\netcoreapp3.1\week7.csprojAssemblyReference.cache
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week7\obj\Debug\netcoreapp3.1\week7.AssemblyInfoInputs.cache
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week7\obj\Debug\netcoreapp3.1\week7.AssemblyInfo.cs
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week7\obj\Debug\netcoreapp3.1\week7.dll
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\week7\obj\Debug\netcoreapp3.1\week7.pdb
