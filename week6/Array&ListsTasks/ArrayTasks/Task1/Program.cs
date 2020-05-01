@@ -15,7 +15,7 @@ namespace Task1
                 names[i] = input;
             }
 
-            Console.WriteLine("============================");
+            Console.WriteLine("=============================");
 
             for (int i = 0; i < names.Length; i++)
             {

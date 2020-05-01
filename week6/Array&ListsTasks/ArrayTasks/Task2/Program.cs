@@ -16,5 +16,6 @@ namespace Task2
             Console.WriteLine("the sum of the numbers is " + total);
 
         }
+        
     }
 }
