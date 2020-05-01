@@ -47,7 +47,6 @@ namespace Excersise3
                   LessX++;
                   space++; 
               }*/
-
         }
     }
 }

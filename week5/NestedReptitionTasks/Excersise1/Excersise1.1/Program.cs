@@ -16,6 +16,7 @@ namespace Excersise1
                 counter++;
                 Console.Write(name + " ");
             }
+            
         }
     }
 }

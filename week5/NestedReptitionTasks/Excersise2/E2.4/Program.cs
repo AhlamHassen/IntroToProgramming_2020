@@ -23,6 +23,7 @@ namespace E2._4
                 Console.WriteLine();
                 counter++;
             }
+            
         }
     }
 }

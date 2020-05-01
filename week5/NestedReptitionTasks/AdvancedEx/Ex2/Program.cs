@@ -25,8 +25,6 @@ namespace Ex2
                 Console.WriteLine();
             }
 
-
-
         }
     }
 }

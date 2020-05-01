@@ -18,7 +18,6 @@ namespace E2._3
                 }
                 Console.WriteLine();
                 counter++;
-
             }
         }
     }
