@@ -10,6 +10,7 @@ namespace ProgTasksW5
             int x = 5;
             bool found = false;
             int y = Convert.ToInt32(Console.ReadLine());
+            
             while (found != true)
             {
                 if (y == x)

@@ -25,6 +25,7 @@ namespace ProgTasksW5
                 }
                 input = Console.ReadLine();
             }
+            
         }
     }
 }

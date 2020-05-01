@@ -35,7 +35,6 @@ namespace ProgTasksW5
                     }
 
                 }
-
             }
         }
     }
