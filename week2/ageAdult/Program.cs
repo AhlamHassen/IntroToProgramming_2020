@@ -17,12 +17,15 @@ namespace ageAdult
             {
                 Console.WriteLine("M");
             }
+
             Console.WriteLine("please enter your age");
             int age = Convert.ToInt32(Console.ReadLine());
+
             if (age > 17)
             {
                 Console.WriteLine(gender + " is an adult");
             }
+            
             else
             {
                 Console.WriteLine(gender + " is not an adult");
