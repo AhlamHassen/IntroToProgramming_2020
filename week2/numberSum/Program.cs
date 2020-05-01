@@ -8,6 +8,7 @@ namespace numberSum
         {
             Console.WriteLine("please enter your first number");
             int n1 = int.Parse(Console.ReadLine()); //n1 = number1
+            
             Console.WriteLine("please enter your second number");
             int n2 = int.Parse(Console.ReadLine()); //n2 = number2
 
@@ -20,7 +21,7 @@ namespace numberSum
             {
                 Console.WriteLine("The sum of the two numbers is less than 10");
             }
-            
+
             else
             {
                 Console.WriteLine("The sum of the two numbers is greater than 10");

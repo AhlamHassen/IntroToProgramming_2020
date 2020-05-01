@@ -9,6 +9,7 @@ namespace ageAdult
             string female = "female", male = "male";
             Console.WriteLine("please enter your gender: Male or Female");
             string gender = Console.ReadLine();
+            
             if (gender == female)
             {
                 Console.WriteLine("F");
@@ -25,7 +26,7 @@ namespace ageAdult
             {
                 Console.WriteLine(gender + " is an adult");
             }
-            
+
             else
             {
                 Console.WriteLine(gender + " is not an adult");

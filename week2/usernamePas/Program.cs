@@ -16,11 +16,12 @@ namespace prog
             {
                 Console.WriteLine("please enter your password");
                 int pas = Convert.ToInt32(Console.ReadLine());
-                
+
                 if (pas == password)
                 {
                     Console.WriteLine("login successful");
                 }
+
                 else
                 {
                     Console.WriteLine("login unsuccessful");
@@ -31,7 +32,6 @@ namespace prog
             {
                 Console.WriteLine("login unsuccessful");
             }
-
         }
     }
 }
