@@ -6,7 +6,8 @@ namespace week8
     class Program
     {
         static void Main(string[] args)
-        {
+        {  
+            //instantiating a person
             Person p1 = new Person("Ahlam", "Hassen", 1997, 154);
             Person p2 = new Person("Amiiy", "Saleh", 2000, 163);
             Person p3 = new Person("Dina", "Adem", 1998, 170);
@@ -55,6 +56,7 @@ namespace week8
 
             Subject En = new Subject("English", 2020);
             p1.newSubject(En);
+            
         }
     }
 
@@ -102,11 +104,14 @@ namespace week8
 
         }
 
-        public void newSubject(Subject newSubject)
+        public void newSubject(Subject newsubject)
         {
-            this.ListOfSubjects.Add(newSubject);
+            this.ListOfSubjects.Add(newsubject);
             Console.WriteLine();
-
+            int len = this.ListOfSubjects.Count;
+            for(int i=0; i<len; i++){
+                Console.Write(this.ListOfSubjects[i].Name);
+            }
         }
 
     }
