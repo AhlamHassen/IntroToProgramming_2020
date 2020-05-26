@@ -5,40 +5,35 @@ namespace week8
     class Program
     {
         static void Main(string[] args)
-        {    
-            //code to instantiate a Colour
-            Colour c1 = new Colour(255, 0, 0, "red");
-            Colour c2 = new Colour(0, 0, 255, "blue");
-            Colour c3 = new Colour(0, 255, 0, "green");
+        { 
+            Colour red = new Colour(255, 0, 0, "Red");
+            Colour green = new Colour(0, 255, 0, "green");
+            Colour blue = new Colour(0, 0, 255, "blue");
+            
+            //Code to instantiate a cookie
+            Cookie c1 = new Cookie(12, "circle", red);
+            Cookie c2 = new Cookie(19, "rectangle", green);
+            Cookie c3 = new Cookie(15, "oval", blue);
+            Cookie c4 = new Cookie(9, "star", red);
 
-            //code to instantiate a Cookie
-            Cookie ck1 = new Cookie(12, "circle", c1);
-            Cookie ck2 = new Cookie(10, "oval", c2);
-            Cookie ck3 = new Cookie(9, "rectangle", c3);
-            Cookie ck4 = new Cookie(15, "circle", c1);
+            Console.WriteLine("The colour of cookie 1 is: " + c1.colour.colorName);
+            Console.WriteLine("The colour of cookie 2 is: " + c2.colour.colorName);
 
-            Console.WriteLine("The colour of cookie 1 is: " + c1.colourName);
-            Console.WriteLine("The colour of cookie 2 is: " + c2.colourName);
-           
+            
         }
-
     }
 
     class Cookie
     {
-        public int Weight;
-        public string Shape;
-        public Colour Colour;
+      public int weight;
+      public string shape;
+      public Colour colour;
 
-        //=====================
-        //constructor
-        //=====================
-        public Cookie(int weight, string shape, Colour c)
-        {
-            this.Weight = weight;
-            this.Shape = shape;
-            this.Colour = c;
-        }
+      public Cookie(int we, string sh, Colour c){
+          this.weight = we;
+          this.shape = sh;
+          this.colour = c;
+      }
 
     }
 
@@ -47,20 +42,13 @@ namespace week8
         public int red;
         public int green;
         public int blue;
-        public string colourName;
+        public string colorName;
 
-        public Colour(int red, int green, int blue, string name)
-        {
-            this.red = red;
-            this.green = green;
-            this.blue = blue;
-            this.colourName = name;
-
+        public Colour(int r, int g, int b, string cn){
+            this.red = r;
+            this.green = g;
+            this.blue = b;
+            this.colorName = cn;
         }
     }
-
 }
-
-
-
-
