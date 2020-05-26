@@ -94,9 +94,7 @@ namespace tt
         }
 
         public void GetHeightDifference(int p1, int p2){
-          int p = p1;
-          int other = p2;
-
+            
           int result = p1 - p2;
           if (result < 0){
              result = result * -1 ;
