@@ -68,7 +68,7 @@ namespace MyBingoGame
 
                     card.markCard(mark);
                     Console.WriteLine();
-                    //Start();
+                    Start();
                 }
 
             }
