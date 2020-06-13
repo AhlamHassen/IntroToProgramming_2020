@@ -46,18 +46,23 @@ namespace Assignment1___BingoNumberGenerator
             var userSelection = Console.ReadLine();
             Console.WriteLine();
 
+            int listCount = this.DrawnNumbers.Count;
+            int limit = Convert.ToInt32(this.UpperLimit);
+
             if (userSelection == "1")
             {
-                this.generateRandomNum();
-                int listCount = this.DrawnNumbers.Count;
-                int limit = Convert.ToInt32(this.UpperLimit);
-
-                if(listCount == limit){
+                if (listCount == limit)
+                {
                     Console.WriteLine("All numbers are drawn, you cannot draw more numbers");
-                
+                    this.Menu();
                 }
-                this.Menu();
+                else
+                {
+                    this.generateRandomNum();
+                    this.Menu();
+                }
             }
+
 
             else if (userSelection == "2")
             {
@@ -68,7 +73,7 @@ namespace Assignment1___BingoNumberGenerator
 
                 if (selected == 1)
                 {
-                    Console.Write("The drawn numbers are: "); 
+                    Console.Write("The drawn numbers are: ");
                     for (int i = 0; i < this.DrawnNumbers.Count; i++)
                     {
                         Console.Write(this.DrawnNumbers[i] + ", ");
@@ -76,17 +81,20 @@ namespace Assignment1___BingoNumberGenerator
                     Console.WriteLine();
                     this.Menu();
                 }
-                else if( selected == 2){
+                else if (selected == 2)
+                {
                     this.DrawnNumbers.Sort();
-                    Console.Write("The drawn numbers are: "); 
-                    for (int i = 0; i < this.DrawnNumbers.Count; i++){
+                    Console.Write("The drawn numbers are: ");
+                    for (int i = 0; i < this.DrawnNumbers.Count; i++)
+                    {
                         Console.Write(this.DrawnNumbers[i] + ", ");
                     }
                     Console.WriteLine();
                     this.Menu();
 
                 }
-                else if( selected == 3){
+                else if (selected == 3)
+                {
                     this.Menu();
                 }
                 Console.WriteLine();
@@ -99,15 +107,13 @@ namespace Assignment1___BingoNumberGenerator
             }
             else if (userSelection == "4")
             {
-               return;
+                return;
             }
-
-
 
         }
 
         public void generateRandomNum()
-        {  
+        {
             Random ran = new Random();
             int limit = Convert.ToInt32(this.UpperLimit);
             int number;
@@ -147,10 +153,6 @@ namespace Assignment1___BingoNumberGenerator
             int numSelected = Convert.ToInt32(Selected);
             return numSelected;
         }
-
-
-
-
 
 
 
