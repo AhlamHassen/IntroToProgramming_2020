@@ -5,9 +5,8 @@ namespace Assignment1___BingoNumberGenerator
 {
     public class NumberDrawer
     {
-        public uint UpperLimit;
+        public int UpperLimit;
         public List<int> DrawnNumbers;
-
 
         public NumberDrawer()
         {
@@ -17,22 +16,10 @@ namespace Assignment1___BingoNumberGenerator
 
         public void Start()
         {
-            string numberRead;
-            int counter = 0;
-            do
-            {
-                if (counter > 0)
-                {
-                    Console.WriteLine("Invalid input!");
-                }
-                Console.WriteLine("Please enter the upper limit for the draw (input must be non-negative numeric value)");
-                numberRead = Console.ReadLine();
-                counter++;
-            }
-            while (!uint.TryParse(numberRead, out this.UpperLimit));
-            Console.WriteLine();
+            Console.WriteLine("Please enter the upper limit for the draw (input must be non-negative numeric value)");
+            this.userSelected();
+            this.UpperLimit = this.inputValidation();
             this.Menu();
-
         }
 
         public void Menu()
@@ -43,17 +30,17 @@ namespace Assignment1___BingoNumberGenerator
             Console.WriteLine("3. Check specific number");
             Console.WriteLine("4. Exit");
 
-            var userSelection = Console.ReadLine();
-            Console.WriteLine();
+            this.userSelected();
+            string userSelection = Convert.ToString(this.inputValidation());
 
             int listCount = this.DrawnNumbers.Count;
-            int limit = Convert.ToInt32(this.UpperLimit);
+            int limit = this.UpperLimit;
 
             if (userSelection == "1")
             {
                 if (listCount == limit)
                 {
-                    Console.WriteLine("All numbers are drawn, you cannot draw more numbers");
+                    Console.WriteLine("All numbers are drawn, you cannot draw more numbers . . .");
                     this.Menu();
                 }
                 else
@@ -63,12 +50,14 @@ namespace Assignment1___BingoNumberGenerator
                 }
             }
 
-
             else if (userSelection == "2")
             {
+                Console.WriteLine("Print all drawn numbers");
                 Console.WriteLine("1. Print all numbers in the order that they were drawn");
                 Console.WriteLine("2. Print all numbers in numerical order");
-                Console.WriteLine("3. Go back");
+                Console.WriteLine("3. Go back to main menu");
+
+                this.userSelected();
                 int selected = this.inputValidation();
 
                 if (selected == 1)
@@ -81,6 +70,7 @@ namespace Assignment1___BingoNumberGenerator
                     Console.WriteLine();
                     this.Menu();
                 }
+
                 else if (selected == 2)
                 {
                     this.DrawnNumbers.Sort();
@@ -91,25 +81,37 @@ namespace Assignment1___BingoNumberGenerator
                     }
                     Console.WriteLine();
                     this.Menu();
-
                 }
+
                 else if (selected == 3)
                 {
                     this.Menu();
                 }
                 Console.WriteLine();
-
             }
 
             else if (userSelection == "3")
             {
-
+                
             }
+
             else if (userSelection == "4")
             {
                 return;
             }
 
+            else
+            {
+                Console.WriteLine("Selected option is outside menu option range . . .");
+                this.Menu();
+            }
+
+        }
+
+        public void userSelected()
+        {
+            Console.WriteLine();
+            Console.Write("User selected: ");
         }
 
         public void generateRandomNum()
@@ -124,8 +126,8 @@ namespace Assignment1___BingoNumberGenerator
                 {
                     number = number * -1;
                 }
-
             }
+
             while (this.DrawnNumbers.Contains(number));
             this.DrawnNumbers.Add(number);
             Console.WriteLine(number);
@@ -142,8 +144,8 @@ namespace Assignment1___BingoNumberGenerator
                 if (counter > 0)
                 {
                     Console.WriteLine("Invalid input!");
+                    this.userSelected();
                 }
-
                 numberRead = Console.ReadLine();
                 counter++;
             }
@@ -155,9 +157,6 @@ namespace Assignment1___BingoNumberGenerator
         }
 
 
-
     }
-
-
 
 }
