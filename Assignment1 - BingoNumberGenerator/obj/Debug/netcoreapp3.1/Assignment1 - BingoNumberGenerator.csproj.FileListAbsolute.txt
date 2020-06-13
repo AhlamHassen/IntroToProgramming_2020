@@ -1,0 +1,11 @@
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\Assignment1 - BingoNumberGenerator\bin\Debug\netcoreapp3.1\Assignment1 - BingoNumberGenerator.exe
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\Assignment1 - BingoNumberGenerator\bin\Debug\netcoreapp3.1\Assignment1 - BingoNumberGenerator.deps.json
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\Assignment1 - BingoNumberGenerator\bin\Debug\netcoreapp3.1\Assignment1 - BingoNumberGenerator.runtimeconfig.json
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\Assignment1 - BingoNumberGenerator\bin\Debug\netcoreapp3.1\Assignment1 - BingoNumberGenerator.runtimeconfig.dev.json
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\Assignment1 - BingoNumberGenerator\bin\Debug\netcoreapp3.1\Assignment1 - BingoNumberGenerator.dll
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\Assignment1 - BingoNumberGenerator\bin\Debug\netcoreapp3.1\Assignment1 - BingoNumberGenerator.pdb
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\Assignment1 - BingoNumberGenerator\obj\Debug\netcoreapp3.1\Assignment1 - BingoNumberGenerator.csprojAssemblyReference.cache
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\Assignment1 - BingoNumberGenerator\obj\Debug\netcoreapp3.1\Assignment1 - BingoNumberGenerator.AssemblyInfoInputs.cache
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\Assignment1 - BingoNumberGenerator\obj\Debug\netcoreapp3.1\Assignment1 - BingoNumberGenerator.AssemblyInfo.cs
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\Assignment1 - BingoNumberGenerator\obj\Debug\netcoreapp3.1\Assignment1 - BingoNumberGenerator.dll
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\Assignment1 - BingoNumberGenerator\obj\Debug\netcoreapp3.1\Assignment1 - BingoNumberGenerator.pdb
