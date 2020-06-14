@@ -28,7 +28,10 @@ namespace Assignment1___BingoNumberGenerator
             Console.WriteLine("1. Draw next number");
             Console.WriteLine("2. View all drawn numbers");
             Console.WriteLine("3. Check specific number");
-            Console.WriteLine("4. Exit");
+            Console.WriteLine("4. Check list of numbers");
+            Console.WriteLine("5. Draw statistics");
+            Console.WriteLine("6. Exit");
+
 
             this.userSelected();
             string userSelection = Convert.ToString(this.inputValidation());
@@ -58,7 +61,7 @@ namespace Assignment1___BingoNumberGenerator
             else if (userSelection == "3")
             {
                 Console.WriteLine(this.DrawnNumbers.Count + " number/s were drawn out of " + this.UpperLimit + " number/s . . .");
-                Console.WriteLine("Enter a number to check if it has been drawn, press 123 to return to main menu . . .");
+                Console.WriteLine("Press 123 to return to the main menu, enter a number to check if it has been drawn");
                 this.userSelected();
                 int selected = this.inputValidation();
                 bool checker = false;
@@ -80,12 +83,12 @@ namespace Assignment1___BingoNumberGenerator
 
                     if (checker == true)
                     {
-                        Console.WriteLine("HI");
+                        Console.WriteLine("This number has been drawn . . .");
                         checker = false;
-
                     }
-                    else{
-                         Console.WriteLine("no");
+                    else
+                    {
+                        Console.WriteLine("This number has not been drawn . . .");
                     }
 
                     this.userSelected();
@@ -99,6 +102,64 @@ namespace Assignment1___BingoNumberGenerator
             }
 
             else if (userSelection == "4")
+            {
+                List<int> checkList = new List<int>();
+                Console.WriteLine(this.DrawnNumbers.Count + " number/s were drawn out of " + this.UpperLimit +
+                " number/s, Press 123 to go back to the main menu . . .");
+                Console.WriteLine("Enter a list of numbers to check if the numbers have been drawn");
+
+                this.userSelected();
+                int selected = this.inputValidation();
+                bool checker = false;
+
+                if (selected == 123)
+                {
+                    this.Menu();
+                }
+
+                while (selected != 123)
+                {
+                    checkList.Add(selected);
+                    this.userSelected();
+                    selected = this.inputValidation();
+
+                    if (selected == 123)
+                    {
+                        for (int i = 0; i < checkList.Count; i++)
+                        {
+                            for (int x = 0; x < this.DrawnNumbers.Count; x++)
+                            {
+                                if (checkList[i] == this.DrawnNumbers[x])
+                                {
+                                    checker = true;
+                                }
+                            }
+
+                            if (checker == true)
+                            {
+                                Console.WriteLine("number " + checkList[i] + " has been drawn . . .");
+                                checker = false;
+                            }
+                            else
+                            {
+                                Console.WriteLine("number " + checkList[i] + " has not been drawn . . .");
+                            }
+
+                        }
+                        Console.WriteLine();
+                        this.Menu();
+                    }
+
+                }
+
+            }
+
+            else if (userSelection == "5")
+            {
+
+            }
+
+            else if (userSelection == "6")
             {
                 return;
             }
