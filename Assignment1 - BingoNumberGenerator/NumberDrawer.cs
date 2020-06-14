@@ -52,47 +52,50 @@ namespace Assignment1___BingoNumberGenerator
 
             else if (userSelection == "2")
             {
-                Console.WriteLine("Print all drawn numbers");
-                Console.WriteLine("1. Print all numbers in the order that they were drawn");
-                Console.WriteLine("2. Print all numbers in numerical order");
-                Console.WriteLine("3. Go back to main menu");
-
-                this.userSelected();
-                int selected = this.inputValidation();
-
-                if (selected == 1)
-                {
-                    Console.Write("The drawn numbers are: ");
-                    for (int i = 0; i < this.DrawnNumbers.Count; i++)
-                    {
-                        Console.Write(this.DrawnNumbers[i] + ", ");
-                    }
-                    Console.WriteLine();
-                    this.Menu();
-                }
-
-                else if (selected == 2)
-                {
-                    this.DrawnNumbers.Sort();
-                    Console.Write("The drawn numbers are: ");
-                    for (int i = 0; i < this.DrawnNumbers.Count; i++)
-                    {
-                        Console.Write(this.DrawnNumbers[i] + ", ");
-                    }
-                    Console.WriteLine();
-                    this.Menu();
-                }
-
-                else if (selected == 3)
-                {
-                    this.Menu();
-                }
-                Console.WriteLine();
+                this.printMenu();
             }
 
             else if (userSelection == "3")
             {
-                
+                Console.WriteLine(this.DrawnNumbers.Count + " number/s were drawn out of " + this.UpperLimit + " number/s . . .");
+                Console.WriteLine("Enter a number to check if it has been drawn, press 123 to return to main menu . . .");
+                this.userSelected();
+                int selected = this.inputValidation();
+                bool checker = false;
+
+                while (selected != 123)
+                {
+                    for (int i = 0; i < this.DrawnNumbers.Count; i++)
+                    {
+                        if (selected == 123)
+                        {
+                            this.Menu();
+                        }
+                        else if (selected == this.DrawnNumbers[i])
+                        {
+                            checker = true;
+                        }
+
+                    }
+
+                    if (checker == true)
+                    {
+                        Console.WriteLine("HI");
+                        checker = false;
+
+                    }
+                    else{
+                         Console.WriteLine("no");
+                    }
+
+                    this.userSelected();
+                    selected = this.inputValidation();
+                }
+
+                if (selected == 123)
+                {
+                    this.Menu();
+                }
             }
 
             else if (userSelection == "4")
@@ -114,6 +117,52 @@ namespace Assignment1___BingoNumberGenerator
             Console.Write("User selected: ");
         }
 
+        public void printMenu()
+        {
+            Console.WriteLine("Print all drawn numbers");
+            Console.WriteLine("1. Print all numbers in the order that they were drawn");
+            Console.WriteLine("2. Print all numbers in numerical order");
+            Console.WriteLine("3. Go back to main menu");
+
+            this.userSelected();
+            int selected = this.inputValidation();
+
+            if (selected == 1)
+            {
+                Console.Write("The drawn numbers are: ");
+                for (int i = 0; i < this.DrawnNumbers.Count; i++)
+                {
+                    Console.Write(this.DrawnNumbers[i] + ", ");
+                }
+                Console.WriteLine();
+                this.Menu();
+            }
+
+            else if (selected == 2)
+            {
+                this.DrawnNumbers.Sort();
+                Console.Write("The drawn numbers are: ");
+                for (int i = 0; i < this.DrawnNumbers.Count; i++)
+                {
+                    Console.Write(this.DrawnNumbers[i] + ", ");
+                }
+                Console.WriteLine();
+                this.Menu();
+            }
+
+            else if (selected == 3)
+            {
+                this.Menu();
+            }
+
+            else
+            {
+                Console.WriteLine("Selected option is outside menu option range . . .");
+                this.printMenu();
+            }
+            Console.WriteLine();
+        }
+
         public void generateRandomNum()
         {
             Random ran = new Random();
@@ -130,7 +179,7 @@ namespace Assignment1___BingoNumberGenerator
 
             while (this.DrawnNumbers.Contains(number));
             this.DrawnNumbers.Add(number);
-            Console.WriteLine(number);
+            Console.WriteLine("The number drawn is: " + number);
             Console.WriteLine();
         }
 
