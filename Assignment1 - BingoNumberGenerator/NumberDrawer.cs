@@ -1,5 +1,8 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.IO;
+using System.Text;
 
 namespace Assignment1___BingoNumberGenerator
 {
@@ -7,11 +10,13 @@ namespace Assignment1___BingoNumberGenerator
     {
         public int UpperLimit;
         public List<int> DrawnNumbers;
+        public List<int> SortedList;
 
         public NumberDrawer()
         {
             this.UpperLimit = 0;
             this.DrawnNumbers = new List<int>();
+            this.SortedList = new List<int>();
         }
 
         public void Start()
@@ -31,7 +36,6 @@ namespace Assignment1___BingoNumberGenerator
             Console.WriteLine("4. Check list of numbers");
             Console.WriteLine("5. Draw statistics");
             Console.WriteLine("6. Exit");
-
 
             this.userSelected();
             string userSelection = Convert.ToString(this.inputValidation());
@@ -156,11 +160,55 @@ namespace Assignment1___BingoNumberGenerator
 
             else if (userSelection == "5")
             {
+                Console.WriteLine("1. Total of numbers drawn thus far");
+                Console.WriteLine("2. Average of numbers drawn thus far");
+                Console.WriteLine("3. Go back to main menu");
+
+                this.userSelected();
+                int selected = this.inputValidation();
+                int total = 0;
+
+                if (selected == 1)
+                {
+                    for (int i = 0; i < this.DrawnNumbers.Count; i++)
+                    {
+                        total += this.DrawnNumbers[i];
+                    }
+                    Console.WriteLine("The total is: " + total);
+                    Console.WriteLine();
+                    this.Menu();
+                }
+                else if (selected == 2)
+                {
+                    int average = 0;
+                    for (int i = 0; i < this.DrawnNumbers.Count; i++)
+                    {
+                        total += this.DrawnNumbers[i];
+                    }
+                    for (int i = 0; i < this.DrawnNumbers.Count; i++)
+                    {
+                        average = total / this.DrawnNumbers.Count;
+                    }
+                    Console.WriteLine("The average is: " + average);
+                    Console.WriteLine();
+                    this.Menu();
+                }
+                else if (selected == 3)
+                {
+                    this.Menu();
+                }
+                else
+                {
+                    Console.WriteLine("Selected option is outside menu option range . . .");
+                    this.Menu();
+                }
 
             }
 
             else if (userSelection == "6")
             {
+                Console.WriteLine("drawn_numbers.txt file has been created . . .");
+                this.createFile();
                 return;
             }
 
@@ -169,7 +217,6 @@ namespace Assignment1___BingoNumberGenerator
                 Console.WriteLine("Selected option is outside menu option range . . .");
                 this.Menu();
             }
-
         }
 
         public void userSelected()
@@ -201,11 +248,12 @@ namespace Assignment1___BingoNumberGenerator
 
             else if (selected == 2)
             {
-                this.DrawnNumbers.Sort();
+                this.SortedList.Sort();
                 Console.Write("The drawn numbers are: ");
+
                 for (int i = 0; i < this.DrawnNumbers.Count; i++)
                 {
-                    Console.Write(this.DrawnNumbers[i] + ", ");
+                    Console.Write(this.SortedList[i] + ", ");
                 }
                 Console.WriteLine();
                 this.Menu();
@@ -237,9 +285,9 @@ namespace Assignment1___BingoNumberGenerator
                     number = number * -1;
                 }
             }
-
-            while (this.DrawnNumbers.Contains(number));
+            while (this.DrawnNumbers.Contains(number) || this.SortedList.Contains(number));
             this.DrawnNumbers.Add(number);
+            this.SortedList.Add(number);
             Console.WriteLine("The number drawn is: " + number);
             Console.WriteLine();
         }
@@ -266,6 +314,60 @@ namespace Assignment1___BingoNumberGenerator
             return numSelected;
         }
 
+        public void createFile()
+        {
+            string path = @"C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\Assignment1 - BingoNumberGenerator\drawn_numbers.txt";
+            try
+            {
+                if (File.Exists(path))
+                {
+                    File.Delete(path);
+                }
+
+                using (StreamWriter sw = File.CreateText(path))
+                {
+                    if (this.DrawnNumbers.Count > 0)
+                    {
+                        sw.Write("The numbers drawn in their draw order are: ");
+                        for (int i = 0; i < this.DrawnNumbers.Count; i++)
+                        {
+                            sw.Write(this.DrawnNumbers[i] + " ");
+                        }
+                        sw.WriteLine();
+
+                        sw.Write("The numbers drawn in numerical order are: ");
+                        this.DrawnNumbers.Sort();
+                        for (int x = 0; x < this.DrawnNumbers.Count; x++)
+                        {
+                            sw.Write(this.DrawnNumbers[x] + " ");
+                        }
+                    }
+
+                    else
+                    {
+                        sw.Write("No numbers were drawn");
+                    }
+
+                }
+
+                //if you want the file contents to be displayed in the console 
+                /*using (StreamReader sr = File.OpenText(path))
+                {
+                    string s = "";
+                    while ((s = sr.ReadLine()) != null)
+                    {
+                        Console.WriteLine(s);
+                    }
+                }*/
+
+            }
+
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+            }
+
+        }
 
     }
 
