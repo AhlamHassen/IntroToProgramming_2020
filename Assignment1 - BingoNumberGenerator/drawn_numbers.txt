@@ -1,0 +1,2 @@
+The numbers drawn in their draw order are: 21 25 1 
+The numbers drawn in numerical order are: 1 21 25 
