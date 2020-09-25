@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\BeeKeeping\\BeeKeeping.csproj": {}
+    "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\BeeKeeping\\BeeKeeping.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\BeeKeeping\\BeeKeeping.csproj": {
+    "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\BeeKeeping\\BeeKeeping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\BeeKeeping\\BeeKeeping.csproj",
+        "projectUniqueName": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\BeeKeeping\\BeeKeeping.csproj",
         "projectName": "BeeKeeping",
-        "projectPath": "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\BeeKeeping\\BeeKeeping.csproj",
+        "projectPath": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\BeeKeeping\\BeeKeeping.csproj",
         "packagesPath": "C:\\Users\\Ahlam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\BeeKeeping\\obj\\",
+        "outputPath": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\BeeKeeping\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ahlam\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ahlam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

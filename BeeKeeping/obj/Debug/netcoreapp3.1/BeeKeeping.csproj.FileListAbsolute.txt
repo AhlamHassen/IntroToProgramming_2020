@@ -9,3 +9,16 @@ C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\BeeKeeping\obj\Debug\n
 C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.AssemblyInfo.cs
 C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.dll
 C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.pdb
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.exe
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.deps.json
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.runtimeconfig.json
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.runtimeconfig.dev.json
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.dll
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.pdb
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.csprojAssemblyReference.cache
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.AssemblyInfoInputs.cache
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.AssemblyInfo.cs
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.csproj.CoreCompileInputs.cache
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.dll
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.pdb
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.genruntimeconfig.cache

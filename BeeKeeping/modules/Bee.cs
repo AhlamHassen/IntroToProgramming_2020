@@ -10,5 +10,10 @@ namespace BeeKeeping
             this.Name = name;
             this.Size = size;
         }
+
+        public Bee(float size){
+            this.Name = "";
+            this.Size = size;
+        }
     }
 }

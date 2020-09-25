@@ -7,22 +7,22 @@ namespace BeeKeeping
     {
         public List<Bee> Bees;
         public int MaxAmountOfBees;
+        public QueenBee QueenBee;
 
         
         public Beehive(){
             this.Bees = new List<Bee>();
             this.MaxAmountOfBees = 4;
+            this.QueenBee = null;
         }
 
-        public Beehive(Bee b1, Bee b2, Bee b3, Bee b4){
-            this.Bees = new List<Bee>(){b1,b2,b3,b4};
+        public Beehive(int max , List<Bee> bees){
+            this.MaxAmountOfBees = max;
+            this.Bees = bees;
+            this.QueenBee = null;
         }
 
-        public Beehive(Bee b1, Bee b2, Bee b3){
-            this.Bees = new List<Bee>(){b1,b2,b3};
-        }
-
-         public void AddBees(Bee bee){
+        public void AddBees(Bee bee){
             this.Bees.Add(bee);
         }
 
@@ -38,6 +38,10 @@ namespace BeeKeeping
         public void numberOfBees(){
            Console.WriteLine($"The number of bees in this hive are: {this.Bees.Count}");
         }
+
+        public void addQueenBee(){
+            this.QueenBee = new QueenBee();
+        } 
 
 
     }
