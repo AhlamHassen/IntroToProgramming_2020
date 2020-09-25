@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\Semester_2\\Week2\\ExceptionHaTask\\ExceptionHaTask.csproj",
+      "projectUniqueName": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\ExceptionHaTask\\ExceptionHaTask.csproj",
       "projectName": "ExceptionHaTask",
-      "projectPath": "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\Semester_2\\Week2\\ExceptionHaTask\\ExceptionHaTask.csproj",
+      "projectPath": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\ExceptionHaTask\\ExceptionHaTask.csproj",
       "packagesPath": "C:\\Users\\Ahlam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ahlam\\OneDrive - Swinburne University\\5IntroProg\\Semester_2\\Week2\\ExceptionHaTask\\obj\\",
+      "outputPath": "C:\\Users\\Ahlam\\Desktop\\myRepositories\\IntroToProgramming_2020\\ExceptionHaTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ahlam\\AppData\\Roaming\\NuGet\\NuGet.Config"

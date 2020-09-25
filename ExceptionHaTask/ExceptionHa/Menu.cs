@@ -12,6 +12,7 @@ namespace ExceptionHaTask
         {
             this.message = "Please fill the required fields";
         }
+        
         public void menu()
         {
             List<Student> students = new List<Student>();
@@ -125,7 +126,22 @@ namespace ExceptionHaTask
             }
         }
 
-        public void timeDifference(DateTime dentered, DateTime tentered, DateTime dlef, DateTime tleft)
+        // public void timeDifference(DateTime dentered, DateTime tentered, DateTime dlef, DateTime tleft)
+        // {
+        //     DateTime adate = dentered;
+        //     DateTime bdate = dlef;
+        //     DateTime atime = tentered;
+        //     DateTime btime = tleft;
+
+        //     var dateInMin = bdate.Subtract(adate).TotalMinutes;
+        //     var TimeInMin = btime.Subtract(atime).TotalMinutes;
+
+        //     double value = dateInMin + TimeInMin;
+        //     Console.WriteLine(value);
+           
+        // }
+
+         public double timeDifference(DateTime dentered, DateTime tentered, DateTime dlef, DateTime tleft)
         {
             DateTime adate = dentered;
             DateTime bdate = dlef;
@@ -136,8 +152,9 @@ namespace ExceptionHaTask
             var TimeInMin = btime.Subtract(atime).TotalMinutes;
 
             double value = dateInMin + TimeInMin;
-            Console.WriteLine(value);
-           
+           // Console.WriteLine(value);
+            
+            return value;
         }
     }
 }

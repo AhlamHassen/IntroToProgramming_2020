@@ -9,3 +9,8 @@ C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\Semester_2\Week2\Excep
 C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\Semester_2\Week2\ExceptionHaTask\obj\Debug\netcoreapp3.1\ExceptionHaTask.AssemblyInfo.cs
 C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\Semester_2\Week2\ExceptionHaTask\obj\Debug\netcoreapp3.1\ExceptionHaTask.dll
 C:\Users\Ahlam\OneDrive - Swinburne University\5IntroProg\Semester_2\Week2\ExceptionHaTask\obj\Debug\netcoreapp3.1\ExceptionHaTask.pdb
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\ExceptionHaTask\obj\Debug\netcoreapp3.1\ExceptionHaTask.csprojAssemblyReference.cache
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\ExceptionHaTask\obj\Debug\netcoreapp3.1\ExceptionHaTask.AssemblyInfoInputs.cache
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\ExceptionHaTask\obj\Debug\netcoreapp3.1\ExceptionHaTask.AssemblyInfo.cs
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\ExceptionHaTask\obj\Debug\netcoreapp3.1\ExceptionHaTask.dll
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\ExceptionHaTask\obj\Debug\netcoreapp3.1\ExceptionHaTask.pdb

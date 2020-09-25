@@ -1,0 +1,13 @@
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\ExceptionHaTask\ExceptionHa\obj\Debug\netcoreapp3.1\ExceptionHaTask.csprojAssemblyReference.cache
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\ExceptionHaTask\ExceptionHa\obj\Debug\netcoreapp3.1\ExceptionHaTask.AssemblyInfoInputs.cache
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\ExceptionHaTask\ExceptionHa\obj\Debug\netcoreapp3.1\ExceptionHaTask.AssemblyInfo.cs
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\ExceptionHaTask\ExceptionHa\bin\Debug\netcoreapp3.1\ExceptionHaTask.exe
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\ExceptionHaTask\ExceptionHa\bin\Debug\netcoreapp3.1\ExceptionHaTask.deps.json
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\ExceptionHaTask\ExceptionHa\bin\Debug\netcoreapp3.1\ExceptionHaTask.runtimeconfig.json
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\ExceptionHaTask\ExceptionHa\bin\Debug\netcoreapp3.1\ExceptionHaTask.runtimeconfig.dev.json
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\ExceptionHaTask\ExceptionHa\bin\Debug\netcoreapp3.1\ExceptionHaTask.dll
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\ExceptionHaTask\ExceptionHa\bin\Debug\netcoreapp3.1\ExceptionHaTask.pdb
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\ExceptionHaTask\ExceptionHa\obj\Debug\netcoreapp3.1\ExceptionHaTask.dll
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\ExceptionHaTask\ExceptionHa\obj\Debug\netcoreapp3.1\ExceptionHaTask.pdb
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\ExceptionHaTask\ExceptionHa\obj\Debug\netcoreapp3.1\ExceptionHaTask.csproj.CoreCompileInputs.cache
+C:\Users\Ahlam\Desktop\myRepositories\IntroToProgramming_2020\ExceptionHaTask\ExceptionHa\obj\Debug\netcoreapp3.1\ExceptionHaTask.genruntimeconfig.cache
